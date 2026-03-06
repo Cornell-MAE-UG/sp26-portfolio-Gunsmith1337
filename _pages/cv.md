@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Owen Dong - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
