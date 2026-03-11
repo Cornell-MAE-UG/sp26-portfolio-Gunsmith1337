@@ -8,51 +8,51 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [od89@cornell.edu](mailto:od89@cornell.edu) | | | **Phone:** +(225) 610 4319
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in physics, mathematics, and computer science. Passionate about developing new tools and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.8/4.0 | Expected Graduation: May, 2030
 
-- **[High School Name]**  
+- **Baton Rouge Magnet High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May, 2026
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Onshape  
+- **Programming:** Python, Java  
+- **Tools:** 3D Printing
 
 ---
 
 #### Projects
+- **Wizard Game**:  
+  *Hackathon Python Game*  
+  - Incorporated team contributions to develop a game program  
+  - Created a functioning game despite relatively low experience  
+{% comment %}
 - **[Project Title]**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
+{% endcomment %}
 ---
-
+{% comment %}
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **ExxonMobil - Intern**  
+  June, 2025 - July, 2025  
+  - Shadowed chemists and lab technicians in the Quality Assurance Lab and Chemistry Plant Lab.  
+  - Learned how to test samples using GCs, NMRs, X-Rays, Auto-titrators, and Combustion IC.  
 
 ---
 
@@ -67,7 +67,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 - Volunteer for [Event/Organization Name]  
 
 ---
-
+{% endcomment %}
 #### References
 Available upon request.
 

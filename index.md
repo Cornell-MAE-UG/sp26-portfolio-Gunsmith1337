@@ -1,6 +1,6 @@
 ---
 layout: default
-title: johannes
+title: Intro
 ---
 
 ## About Me
@@ -9,8 +9,8 @@ title: johannes
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ site.name }}, and I am an undergraduate studying engineering at Cornell University! I have a general interest in everything related to STEM, but I am mostly interested in developing tools to solve problems or accomplish goals. In my opinion, there is no such thing as a boring subject, but only a lacking understanding, so if you have any interesting facts to share, please let me know! Right now, I am mostly focused on learning CAD and making things using 3D printing, but I have plans to expand my toolbox, and if you have a project that could use a 3D designer, then feel free to send me an email at [od89@cornell.edu](mailto:od89@cornell.edu). 
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Besides my studies, I also have multiple personal hobbies. My favorite sport is badminton, as it is perhaps the only sport I can call myself good at. I am also a huge gamer, so if you have ever played any video game ever, there is a solid chance that I have at least heard of it and can hold a conversation with you; feel free to share any games you have played recently as well. Games are a great reminder that nobody is perfect, and when it comes to something like designing and programming for projects, you will rarely hit your target on the first attempt. However, as long as you never quit, you will always learn and eventually succeed.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
