@@ -4,7 +4,16 @@ title: Nutcracker Design
 description: Overoptimized, bare minimum nutcracker.
 technologies: [Microsoft Paint]
 image: /assets/images/nutcracker.jpg
+math: true
 ---
+
+Inline math: $a^2 + b^2 = c^2$
+
+Display math:
+
+$$
+\int_0^1 x^2 dx
+$$
 
 In 2026, I was tasked with designing a nutcracker capable of breaking open a macadamia nut using a human's grip strength. The goal was to determine the dimensions of the nutcracker and simple geometry was advised. Through some basic research, I came up with the following input values for this problem:  
 $$
