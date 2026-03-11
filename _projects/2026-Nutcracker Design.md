@@ -17,6 +17,7 @@ Setting the moment about the hinge joint (point $A$) to equal 0 would allow me t
   
 When solving this problem, I initially drew the free body diagram as a triangle:  
 ![Initial nutcracker FBD with triangle modeling.]({{ "/assets/images/triangle-nutcracker.jpg" | relative_url }})
+<img src="{{ "/assets/images/triangle-nutcracker.jpg" | relative_url }}" width="300">
 However, I realized that the problem could be simplified even further by instead drawing the shape of the nutcracker as an open rectangle. This meant that instead of having to rely on triangle geometry when calculating distances and moments, I could just treat the horizontal distance between $A, B,$ and $C$ as the lengths of the moment lever arm, $L_1$ and $L_2$.  
 I also realized that the value of L1 would be the radius of a macadamia nut, since maximizing mechanical advantage of the tool would ideally involve minimizing the opposing moment from the macadamia nut and maximizing the moment produced by the applied grip force.
 
@@ -25,13 +26,11 @@ Assuming that the radius of the average macadamia nut is the maximum L1 (or $L_1
 
 [FBD here]
 
-$$
-\sum{M_A}=F_{nut} * L_1 - F_{grip} * (L_1 + L_2) = 0  
-F_nut * L_1 = F_{grip} * (L_1 + L_2)  
-L_2 = \frac{F_{nut} * L_1 - F_{grip} * L_1}{F_{grip}}  
-L_2 = 36.44mm \approx 36 mm  
-L_1 + L_2 = 44 mm  
-$$
+$\sum{M_A}=F_{nut} * L_1 - F_{grip} * (L_1 + L_2) = 0$  
+$F_nut * L_1 = F_{grip} * (L_1 + L_2)$  
+$L_2 = \frac{F_{nut} * L_1 - F_{grip} * L_1}{F_{grip}}$  
+$L_2 = 36.44mm \approx 36 mm$  
+$L_1 + L_2 = 44 mm$  
 
 These calculations are merely theoretical and would need significant adjustment in order to translate directly into a new product. For instance, the actual grip handle would actually require a longer handle beyond the applied force; otherwise, it would be exceedingly difficult to gain a good grip exactly on the outmost of the handle. A more realistic, revised version may look like this:  
 
