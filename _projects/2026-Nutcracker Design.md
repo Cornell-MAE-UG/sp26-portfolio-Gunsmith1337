@@ -7,11 +7,12 @@ image: /assets/images/nutcracker.jpg
 ---
 
 In 2026, I was tasked with designing a nutcracker capable of breaking open a macadamia nut using a human's grip strength. The goal was to determine the dimensions of the nutcracker and simple geometry was advised. Through some basic research, I came up with the following input values for this problem:  
-Maximum load withstood by a macademia nut (Fnut) = 222.18kg (Schrauf and Visalberghi 421)  
-Radius of a macadamia nut = 8mm (World Macadamia Organisation)  
-Human grip strength = 40kg (Massy-Westropp 3)  
-    This value was rounded down to 40kg despite most age ranges having an average above 40kg.  
-
+$$
+\text{Maximum load withstood by a macademia nut} F_nut = 222.18kg \text{(Schrauf and Visalberghi 421)}  
+\text{Radius of a macadamia nut} r_nut = 8mm \text{(World Macadamia Organisation)}  
+\text{Human grip strength} F_grip = 40kg \text{(Massy-Westropp 3)}  
+    \text{note: This value was rounded down to 40kg despite most age ranges having an average above 40kg.}  
+$$
 
 
 
